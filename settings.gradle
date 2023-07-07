@@ -1,0 +1,3 @@
+rootProject.name = "LibMedia"
+include ':app'
+include ':media'
